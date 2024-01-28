@@ -7,7 +7,9 @@
       </div>
       <div class="info">
         <h1 class="name">LUU GIA HUY</h1>
-        <h2 class="job">Frontend Web Designer</h2>
+        <h2 img src=![image](https://github.com/HuyGiaLuu/luugiahuy.github.io/assets/157965204/b3b25a3c-44c6-4756-a510-55708977b95b)
+
+        <h3 class="job">Frontend Web Designer</h3>
       </div>
     </div>
     <div class="about">
