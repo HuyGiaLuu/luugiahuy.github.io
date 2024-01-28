@@ -7,11 +7,11 @@
       </div>
       <div class="info">
         <h1 class="name">LUU GIA HUY</h1>
-        <h2 img src="![Uploading image.png…]()"</h2>
+        
 
 
 
-        <h3 class="job">Frontend Web Designer</h3>
+        <h2 class="job">Frontend Web Designer</h2>
       </div>
     </div>
     <div class="about">
