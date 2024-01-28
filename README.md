@@ -11,7 +11,7 @@
       </div>
     </div>
     <div class="about">
-      <h3>About Me</h3>HUY is currently an honorary lecturer at the Department of Computing, Imperial College London. He obtained his PhD degree (2020) from the IBUG group, supervised by Prof. Stefanos Zafeiriou and funded by the prestigious Imperial President’s PhD Scholarship. He has been working in the field of deep face analysis (e.g., efficient geometry estimation, photorealistic texture modelling, and robust feature embedding) with particular interests in building real-world working systems (e.g., InsightFace.ai and Facesoft.io). He also won many visual perception challenges (e.g., ImageNet and ActivityNet) in the past years.
+      <h3>About Me</h3>Luu Gia HUY, born on MAY 8, 2005, is from BEN TRE city, BEN TRE, Vietnam. He is currently a student studying at the University of Information Technology - Ho Chi Minh City National University
     </div>
     <div class="contact">
       <h3>Contact Me</h3>
