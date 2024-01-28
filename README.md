@@ -11,7 +11,7 @@
       </div>
     </div>
     <div class="about">
-      <h3>About Me</h3>I'm a web designer for Fiserv, specializing in web design, graphic design, and UX. Experienced with the Adobe Creative Suite, responsive design, social media management, and prototyping.
+      <h3>About Me</h3>iankang Deng is currently an honorary lecturer at the Department of Computing, Imperial College London. He obtained his PhD degree (2020) from the IBUG group, supervised by Prof. Stefanos Zafeiriou and funded by the prestigious Imperial President’s PhD Scholarship. He has been working in the field of deep face analysis (e.g., efficient geometry estimation, photorealistic texture modelling, and robust feature embedding) with particular interests in building real-world working systems (e.g., InsightFace.ai and Facesoft.io). He also won many visual perception challenges (e.g., ImageNet and ActivityNet) in the past years.
     </div>
     <div class="contact">
       <h3>Contact Me</h3>
