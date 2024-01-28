@@ -7,10 +7,6 @@
       </div>
       <div class="info">
         <h1 class="name">LUU GIA HUY</h1>
-        
-
-
-
         <h2 class="job">Frontend Web Designer</h2>
       </div>
     </div>
